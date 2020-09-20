@@ -1,0 +1,1 @@
+/home/iot_dev/Documents/random-pick-from-list/osama-qamar/random-pick/target/debug/random-pick: /home/iot_dev/Documents/random-pick-from-list/osama-qamar/random-pick/src/lib.rs /home/iot_dev/Documents/random-pick-from-list/osama-qamar/random-pick/src/main.rs
